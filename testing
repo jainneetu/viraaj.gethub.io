@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>My First HTML Page</title>
+</head>
+
+<body>
+  <h1>Page with HTML</h1>
+  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores modi enim pariatur minima tenetur excepturi, porro laudantium nemo rem eveniet eos consequatur rerum obcaecati molestiae, soluta vitae! Quia, distinctio vitae.</p>
+</body>
+
+</html>
